@@ -13,8 +13,6 @@ class Dashboard extends CI_Controller
 		$this->load->helper('url'); // Memuat helper URL (opsional, jika diperlukan untuk redirect)
 		$this->load->model('Users_model');
 		$this->load->model('ProductModel');
-		$this->load->model('TempatManggungModel');
-		$this->load->model('JadwalModel');
 	}
 
 
