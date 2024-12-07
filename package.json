@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.22.2",
+    "prettier": "^3.4.1"
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.15",
+    "@fullcalendar/daygrid": "^6.1.15"
+  }
+}
